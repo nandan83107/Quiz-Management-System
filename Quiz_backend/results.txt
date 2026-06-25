@@ -1,0 +1,6 @@
+Praveen,3
+Manu,2
+Bharath,2
+Izzy,3
+Jambo,1
+Jumbi,5
