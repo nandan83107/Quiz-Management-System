@@ -10,12 +10,6 @@ A full-stack Quiz Management System built with **React** and **Flask** that allo
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="Quiz Management System" src="https://via.placeholder.com/1200x600?text=Quiz+Management+System" />
-
-> Replace the above image with a screenshot of your project.
-
 ---
 
 ## ✨ Features
